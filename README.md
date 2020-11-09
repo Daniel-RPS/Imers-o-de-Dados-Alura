@@ -34,3 +34,9 @@ Desafios Aula 3:
 * Desafio 2: Criar matriz de correlação triangular/diagonal
 * Desafio 3: Filtrar as notas do seu estado ou sua cidade e refazer as análises, verificando se são semelhantes ao geral
 * Desafio 4: Pensar sobre a correlação entre matemática e Linguagens
+
+Desafios Aula 4:
+
+* Desafio 1: Procurar outro modelo de ML para treinar e comparar com os outros modelos em aula.
+* Desafio 2: Ler a documentação do Dummy e alterar o método de regressão.
+* Desafio 3: Buscar outra métrica para avaliar modelos de regressão.
